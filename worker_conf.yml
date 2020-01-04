@@ -1,0 +1,15 @@
+flowableUrl: 'localhost:8080/flowable-rest/...'
+configServiceUrl: 'localhost:9001/config/...'
+jobs:
+  process1:
+    - step1
+    - step2
+    - step3
+  process2:
+    - step4
+    - step5
+
+
+
+
+
