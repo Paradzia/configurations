@@ -1,2 +1,4 @@
 name: "test_tool_01"
-command: "echo ${name}"
+commands:
+  - "echo ${name}"
+  - "echo test"
